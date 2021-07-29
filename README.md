@@ -1,4 +1,4 @@
-# Ph.D. thesis
+# The aurora (northern and southern lights)
 
 It is widely believed that auroras are created when particles streaming outward from the sun strike Earth's atmosphere.  A key issue with this explanation is that many possible follow-up questions cannot be answered without conceding that the explanation is largely untrue.  Without devolving into pedantry, the reality is quite different.
 
